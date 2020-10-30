@@ -85,7 +85,10 @@ class Header extends Component {
                     <NavLink className="nav-link" to='/quiz'><span className="fa fa-book fa-lg"></span>Take Quiz</NavLink>
                 </NavItem>
                 <NavItem style={{marginRight: 12}}>
-                    <NavLink className="nav-link" to='/popularweb'><span className="fa fa-globe fa-lg"></span> PopularWeb</NavLink>
+                    <NavLink className="nav-link" to='/popularweb'><span className="fa fa-globe fa-lg"></span> PopularWeb </NavLink>
+                </NavItem>
+              <NavItem style={{marginRight: 12}}>
+                    <NavLink className="nav-link" to='/forum'><span className="fa fa-comments fa-lg"></span> Discussion Forum</NavLink>
                 </NavItem>
                 <NavItem style={{marginRight: 12}}>
                     <NavLink className="nav-link" to='/contactus'><span className="fa fa-phone fa-lg"></span> Contact Us</NavLink>
