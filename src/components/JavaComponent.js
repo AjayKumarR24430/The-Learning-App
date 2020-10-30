@@ -130,7 +130,7 @@ render(){
               
                 <i className='fa'>&#xf254;</i><span id="heading">LENGTH  : </span><span>     10-Weeks</span><br /><hr />
                 <i  className='fa'>&#xf3fd;</i><span id="heading">EFFORT  : </span><span>     7-8 hours per week</span><br /><hr />
-                <i  className='fa'>&#xf02b;</i><span id="heading">PRICE  :   </span><span>    80$</span><br /><hr />
+                <i  className='fa'>&#xf02b;</i><span id="heading">PRICE  :   </span><span>    Free</span><br /><hr />
                 <i className="fa">&#xf19c;</i><span id="heading">INSTITUTION  : </span><span>   Stanford </span><br /><hr />
                 <i className="fa">&#xf19d;</i><span id="heading">SUBJECT  : </span><span>       Java</span><br /><hr />
                 <i  className='fa'>&#xf0a3;</i><span id="heading">LEVEL  :  </span><span>      Intermediate</span><br /><hr />
