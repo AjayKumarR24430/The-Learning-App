@@ -135,7 +135,7 @@ By the end of the specialization, you’ll be writing programs that query Intern
               
                 <i className='fa'>&#xf254;</i><span id="heading">LENGTH  : </span><span>     8-Weeks</span><br /><hr />
                 <i  className='fa'>&#xf3fd;</i><span id="heading">EFFORT  : </span><span>     6-7 hours per week</span><br /><hr />
-                <i  className='fa'>&#xf02b;</i><span id="heading">PRICE  :   </span><span>    70$</span><br /><hr />
+                <i  className='fa'>&#xf02b;</i><span id="heading">PRICE  :   </span><span>    Free</span><br /><hr />
                 <i className="fa">&#xf19c;</i><span id="heading">INSTITUTION  : </span><span>   Vanderbilt </span><br /><hr />
                 <i className="fa">&#xf19d;</i><span id="heading">SUBJECT  : </span><span>       Python</span><br /><hr />
                 <i  className='fa'>&#xf0a3;</i><span id="heading">LEVEL  :  </span><span>      Beginner</span><br /><hr />
