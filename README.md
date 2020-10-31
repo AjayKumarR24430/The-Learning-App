@@ -26,6 +26,13 @@ This page consits of three sections
  The section on the right side gives the basic information about the course.
  It also consist of enroll button which navigates to Login and SignUp option.
 
+ ## QUIZ SECTION
+ This page consists of open trivia questions for the students who are interested to test their knowledge in various inter-disciplinary domains of their interest. 
+
+ Students can select the number of questions, the difficulty level of those questions in each domain and also fix the time in which they can answer the entire questions. 
+
+ Users can either take MCQ type of questions or True (or) False questions or mixture of both. So this facilitates a classroom-like environment for taking quizzes. This part can also be considered as a gamify content where the students can take quiz ranging from education to sports, covering almost all domains
+
 ## POPULAR WEB
 It consists of discussions in the very popular trending websites such as medium,stackoverflow questions. The best place to clear doubts!! 
 Answers to almost all the trending questions are available here.
