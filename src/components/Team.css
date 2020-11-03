@@ -1,0 +1,66 @@
+.card-group2
+{
+  display: flex;
+}
+.card2
+{margin:5px;
+
+  width:400px;
+  float:none;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  border-radius:5px;
+  
+}
+.card-body2
+{
+  width:100%;
+} 
+.card-text2
+{
+  text-align:center;
+}
+
+.studentdetails input
+{ width:150px;
+    height:30px;
+    border-radius:5px;
+    border:3px solid #060b26;
+    margin:20px;
+}
+ 
+.studentdetails label
+{
+    font-size: 23px;
+    color: #060b26;
+    margin:20px;
+   
+}
+.cardgroup3
+{
+    display:block;
+    margin:10px;
+
+}
+ .card-group4
+ { 
+     display:flex;
+ }
+.studentdetails table td {
+border:2px solid black;
+font-size: 23px;
+    color: #060b26;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
