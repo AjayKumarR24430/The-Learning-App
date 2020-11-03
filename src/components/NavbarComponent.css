@@ -31,7 +31,10 @@
 	left: 0;
 	transition: 350ms;
 }
-
+.nav-text
+{
+	margin:15px;
+}
 .nav-text1 {
 	display: flex;
 	justify-content: start;
