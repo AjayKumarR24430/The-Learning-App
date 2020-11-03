@@ -5,7 +5,7 @@ import MA from '../images/mavatar.png/.';
 
 function Studentdetails() {
 	return (
-		<div className="col-sm studentdetails">
+		<div className="studentdetails">
 			<img src={MA} />
 			<br/>
 			<div className="card-group4">
