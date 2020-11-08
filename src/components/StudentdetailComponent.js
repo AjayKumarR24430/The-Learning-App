@@ -5,6 +5,9 @@ import MA from '../images/mavatar.png/.';
 
 function Studentdetails() {
 	return (
+		<div className="home">
+		<div className="home__section">
+
 		<div className="col-sm studentdetails">
 			<img src={MA} />
 			<br/>
@@ -24,10 +27,11 @@ function Studentdetails() {
 		<input type="text" value={studentdetail[0].school} readonly /><br/>
 		<label> Courses
 			<br />
-			{studentdetail[0].course1}
+			{studentdetail[0].course1},
 						
 						{studentdetail[0].course2}</label> <br/>
-		
+		</div>
+		</div>		
 	
 		
 	
