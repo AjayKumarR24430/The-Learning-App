@@ -7,14 +7,14 @@ import * as serviceWorker from './serviceWorker';
 import 'font-awesome/css/font-awesome.css';
 import 'bootstrap-social/bootstrap-social.css';
 import { Auth0Provider } from "@auth0/auth0-react";
-import {domain,clientId} from './auth-details';
+// import {domain,clientId} from './auth-details';
 import 'semantic-ui-css/semantic.min.css'
 
 ReactDOM.render(
     <Auth0Provider
-    domain= {domain}
-    clientId= {clientId}
-  >
+    domain="dev-s223iecm.us.auth0.com"
+    clientId="XM72QejA6NbNCnanzMSFwDytGYpOhMEh"
+    >
     <App />
     </Auth0Provider>,
   document.getElementById('root')

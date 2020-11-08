@@ -59,9 +59,11 @@ const Home = (props) => {
         <div className="row text-center">
             <div className="col-12">
                 <h2>Home Learn</h2>
-            </div>            
-            <div className="col-12" style={{marginLeft: 400}}>
-                <h3>Making Learning Fun</h3>
+            </div>
+            <div className="row">
+                <div className="col-12">
+                    <h3>Making Learning Fun</h3>
+                </div>            
             </div>            
         </div>
       </div>

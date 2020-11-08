@@ -354,3 +354,14 @@ address{
   width: 100%;
 }
 
+.bot {
+  bottom: 0;
+  right : 0;
+  position: fixed;
+  width: 350px;
+}
+
+.bot1 {
+
+  width: 350px;
+}

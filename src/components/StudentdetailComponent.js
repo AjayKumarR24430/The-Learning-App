@@ -5,7 +5,14 @@ import MA from '../images/mavatar.png/.';
 
 function Studentdetails() {
 	return (
+<<<<<<< HEAD
+		<div className="home">
+		<div className="home__section">
+
+		<div className="col-sm studentdetails">
+=======
 		<div className="studentdetails">
+>>>>>>> 43e96fd28b1096e2e56db8ecf4d1f7c41e65a2e9
 			<img src={MA} />
 			<br/>
 			<div className="card-group4">
@@ -24,10 +31,11 @@ function Studentdetails() {
 		<input type="text" value={studentdetail[0].school} readonly /><br/>
 		<label> Courses
 			<br />
-			{studentdetail[0].course1}
+			{studentdetail[0].course1},
 						
 						{studentdetail[0].course2}</label> <br/>
-		
+		</div>
+		</div>		
 	
 		
 	
